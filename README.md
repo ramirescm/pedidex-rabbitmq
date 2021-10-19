@@ -13,5 +13,5 @@
 - Acesse o cmd na pasta C:\pedidex\src e execute docker-compose up
 
 ## Referência
-RabbitMQ - https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
-Docker - https://www.docker.com/get-started
+- RabbitMQ - https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
+- Docker - https://www.docker.com/get-started
